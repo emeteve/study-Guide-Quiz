@@ -1,0 +1,19 @@
+button {
+    width: 150px;
+    height: 100px;
+    font-size: 20px;
+}
+
+.quiz1B {
+    background-color: rgb(152, 152, 255);
+}
+
+.quiz2B {
+    background-color: rgb(255, 149, 149);
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
