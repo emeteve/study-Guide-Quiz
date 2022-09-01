@@ -5,32 +5,32 @@ let buttonThree = false;
 let buttonFour = false;
 
 function falseChoices() {
-    let buttonOne = false;
-    let buttonTwo = false;
-    let buttonThree = false;
-    let buttonFour = false;
+    buttonOne = false;
+    buttonTwo = false;
+    buttonThree = false;
+    buttonFour = false;
 }
 
 function button1() {
-    falseChoices()
+    falseChoices();
     buttonOne = true;
     answerSubmission();
 }
 
 function button2() {
-    falseChoices()
+    falseChoices();
     buttonTwo = true;
     answerSubmission();
 }
 
 function button3() {
-    falseChoices()
+    falseChoices();
     buttonThree = true;
     answerSubmission();
 }
 
 function button4() {
-    falseChoices()
+    falseChoices();
     buttonFour = true;
     answerSubmission();
 }
