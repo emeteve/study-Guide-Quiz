@@ -320,7 +320,7 @@ function answerSubmission() {
     } else if (buttonThree === true) {
         randomQuestion3();
 
-        let question = prompt(answer, '');
+        let answer = prompt(question, '');
 
         if (question === 'Titanium' && answer === 'Ti') {
             alert('correct');
