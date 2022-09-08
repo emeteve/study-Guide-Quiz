@@ -166,45 +166,45 @@ function answerSubmission() {
 
         let question = prompt(answer, '');
 
-        if (question === 'Titanium' && answer === 'Ti') {
+        if (question === 'Cesium' && answer === 'Cs') {
             alert('correct');
-        } else if (question === 'Chromium' && answer === 'Cr') {
+        } else if (question === 'Barium' && answer === 'Ba') {
             alert('correct');
-        } else if (question === 'Manganese' && answer === 'Mn') {
+        } else if (question === 'Tungsten' && answer === 'W') {
             alert('correct');
-        } else if (question === 'Iron' && answer === 'Fe') {
+        } else if (question === 'Platinum' && answer === 'Pt') {
             alert('correct');
-        } else if (question === 'Cobalt' && answer === 'Co') {
+        } else if (question === 'Gold' && answer === 'Au') {
             alert('correct');
-        } else if (question === 'Nickel' && answer === 'Ni') {
+        } else if (question === 'Mercury' && answer === 'Hg') {
             alert('correct');
-        }  else if (question === 'Copper' && answer === 'Cu') {
+        }  else if (question === 'Lead' && answer === 'Pb') {
             alert('correct');
-        } else if (question === 'Zinc' && answer === 'Zn') {
+        } else if (question === 'Bismuth' && answer === 'Bi') {
             alert('correct');
-        } else if (question === 'Arsenic' && answer === 'As') {
+        } else if (question === 'Radon' && answer === 'Rn') {
             alert('correct');
-        } else if (question === 'Selenium' && answer === 'Se') {
+        } else if (question === 'Francium' && answer === 'Fr') {
             alert('correct');
-        } else if (question === 'Bromine' && answer === 'Br') {
+        } else if (question === 'Radium' && answer === 'Ra') {
             alert('correct');
-        } else if (question === 'Krypton' && answer === 'Kr') {
+        } else if (question === 'Cerium' && answer === 'Ce') {
             alert('correct');
-        } else if (question === 'Rubidium' && answer === 'Rb') {
+        } else if (question === 'Uranium' && answer === 'U') {
             alert('correct');
-        } else if (question === 'Strontium' && answer === 'Sr') {
+        } else if (question === 'Plutonium' && answer === 'Pu') {
             alert('correct');
-        } else if (question === 'Silver' && answer === 'Ag') {
+        } else if (question === 'Einsteinium' && answer === 'Es') {
             alert('correct');
-        } else if (question === 'Cadmium' && answer === 'Cd') {
+        } else if (question === 'Molybdenum' && answer === 'Mo') {
             alert('correct');
-        } else if (question === 'Tin' && answer === 'Sn') {
+        } else if (question === 'Hafnium' && answer === 'Hf') {
             alert('correct');
-        } else if (question === 'Antimony' && answer === 'Sb') {
+        } else if (question === 'Thallium' && answer === 'Tl') {
             alert('correct');
-        } else if (question === 'Iodine' && answer === 'I') {
+        } else if (question === 'Polonium' && answer === 'Po') {
             alert('correct');
-        } else if (question === 'Xenon' && answer === 'Xe') {
+        } else if (question === 'Americium' && answer === 'Am') {
             alert('correct');
         } else {
             alert('wrong')
